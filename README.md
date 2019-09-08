@@ -22,13 +22,13 @@ the `target` directory. You can then run the app using the following command:
 java -jar target/cryptotrickstr-0.0.1-SNAPSHOT.jar
 ```
 
-###Database Initialization
+### Database Initialization
 To be able to use this application with real 
 cryptocurrency data already stored in the database, you can pass the `initDb` 
 parameter when starting the application. This will fetch some real data from 
 CryptoCompare.com (using their API) and store the information in the database. 
 
-#####Example:
+##### Example:
 ```
 java -jar target/cryptotrickstr-0.0.1-SNAPSHOT.jar --initDb=true
 ```
