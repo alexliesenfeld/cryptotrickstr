@@ -1,6 +1,6 @@
 CryptoTrickstr
 ===
-This demo application is supposed to be a helper app for cryptocrurrency day traders. 
+This demo application is a utility app for cryptocrurrency day traders. 
 It provides information about the top cryptocurrencies 
 (measured by total trading volume / day) and their prices on some famous cryptocurrency 
 exchanges. Day traders can use it to spot an opportunity to gain more income by just 
